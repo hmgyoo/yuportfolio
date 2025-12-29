@@ -106,17 +106,15 @@ export default function App() {
             <div>
               <h1 className="text-5xl font-extrabold tracking-tight text-slate-100 sm:text-6xl">
                 <span className="text-transparent bg-clip-text bg-gradient-to-r from-white to-violet-400">
-                  Gary Daniel Erno
+                  Hi, I'm Gary
                 </span>
               </h1>
               <h2 className="mt-3 text-xl font-medium tracking-tight text-slate-200">
-                Software Developer | Code, Trails, and Travels
+                Software Developer & Mobile Engineer
               </h2>
-              <p className="mt-4 max-w-xs leading-relaxed text-slate-400">
-                Computer Engineering student focused on building
-                high-performance mobile and web solutions with a touch of
-                creative logic.
-              </p>
+              {/* <p className="mt-4 max-w-xs leading-relaxed text-slate-400">
+                
+              </p> */}
 
               <nav className="hidden lg:block mt-16">
                 <ul className="w-max">
@@ -183,16 +181,16 @@ export default function App() {
               </h3>
               <div className="text-slate-400 leading-relaxed text-lg space-y-4">
                 <p>
-                  I am a{" "}
-                  <span className="text-slate-100">Computer Engineering</span>{" "}
-                  student aspiring to lead frontend and mobile development
-                  through technical innovation and meaningful solutions[cite:
-                  18, 19].
+                  With background of electrical and computer engineering, I
+                  believe that the future is in the intersection of technology
+                  and creativity. Passionate about building efficient and
+                  scalable mobile and web applications.
                 </p>
                 <p>
-                  With a proven ability to collaborate effectively with senior
-                  developers, I spend my time mastering new technologies and
-                  mentoring others to strengthen team performance[cite: 18, 27].
+                  When I am away from my keyboard, I enjoy hiking with friends,
+                  running marathons, immersing myself in romance dramas, and
+                  exploring new music. These activities fuel my creativity and
+                  keep me inspired.
                 </p>
               </div>
             </section>
